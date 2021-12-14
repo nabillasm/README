@@ -46,8 +46,10 @@ Bantuan komponen diberikan maksimal untuk 4 jiwa dalam satu keluarga.
 
 ##  Panduan Mendaftar
 1. buka  link https://pkh.dojobox.id/
-2.  klik Daftar Sekarang
-3.  isi semua data dengan lengkap
+2. klik daftar sekarang  ![image](https://user-images.githubusercontent.com/95289038/146037029-e915fefb-3b1c-454f-a4d8-30042eee9fda.png)
+
+3. isi semua data dengan lengkap  ![image](https://user-images.githubusercontent.com/95289038/146037186-5f7d8c46-e99f-4e4c-ad41-2a7839185607.png)
+
 4. klik lanjut untuk melanjutkan pengisian alamat
 5.  simpan data yang sudah disi
 
@@ -55,7 +57,8 @@ Bantuan komponen diberikan maksimal untuk 4 jiwa dalam satu keluarga.
 1. masukan alamat email  dan password yang telah dibuat melalui link pkh  https://pkh.dojobox.id/
 2. ![image](https://user-images.githubusercontent.com/95289038/146035269-d8bed58b-b022-4407-b3b5-736f06386e7f.png)
 3. tampilan setelah login berhasil akan seperti diatas
-saya
+
+
 NOTE: if you ar mengalami gangguan dan ingin melaporkan bisa mengirim atau meminta bantuan ke mmenu pesan ![image](https://user-images.githubusercontent.com/95289038/146035053-d5983b83-7e61-4db0-a116-b6e4740ebf7a.png)
 
 # Terimakasih
